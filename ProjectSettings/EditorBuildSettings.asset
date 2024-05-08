@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Calibration.unity
+    guid: 10fd34eaa00e24e248d137720de8b041
+  - enabled: 1
+    path: Assets/Scenes/Round1.unity
+    guid: 00c36007c87307b41bdbe0121893cdac
+  - enabled: 1
+    path: Assets/Scenes/Round2.unity
+    guid: 2459d3263d41eff4faa23558c1ec8315
+  - enabled: 1
+    path: Assets/Scenes/Segways/firstDone.unity
+    guid: e479514f8ae5c6543a4358f0eb0417b2
+  - enabled: 1
+    path: Assets/Scenes/Segways/secondDone.unity
+    guid: 1bfe75e3bdf9c044985ea77b4797d714
+  - enabled: 1
+    path: Assets/Scenes/Segways/AllDone.unity
+    guid: 490b504d9efae4944ae19c675b6bedeb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 25a658c0922de47deb53be2a9e0c5ce8, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 881c6bf7a1fee4c0cb341d58f7690adf, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 37ec5ebbb7ede4f128655a8992bc4403, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d81b899ec17f94f059d6d2900b2dd1a6, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4cbc4f302ef26470c99698dd6c9d05e2, type: 2}
